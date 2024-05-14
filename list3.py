@@ -7,3 +7,5 @@ for i in list1:
     if x < threshold:
      collate.append(x)
      print(collate)
+     
+     

@@ -4,6 +4,5 @@ for i in list1:
     x = x * i
     print(x/1000)
     if x >100:
-        break
-        print('final result')
-    
+        print('final result' + str (x))
+    break

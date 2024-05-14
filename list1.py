@@ -1,3 +1,4 @@
+#this a code for the list of numbers that is greater than 13 and less than 13 in basket and basket2
 list1=[1,2,4,6,7,9,10]
 threshold = 13
 basket=[]
