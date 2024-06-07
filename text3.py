@@ -11,4 +11,3 @@ if result < 50:
 else:
     print('my result is greater than 50')
  
-
